@@ -14,8 +14,8 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TroyMitchell911)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:TroyMitchell988@gmail.com)&nbsp;
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/joker001014)
+[![Gmail](https://img.shields.io/badge/-163.com-D14836?style=flat&logo=Mail&logoColor=white)](mailto:kywang1014@163.com)&nbsp;
 
 <!-- Talking about you --> 
 ## Talking about Personal Stuffs:
@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/TroyMitchell911/Troymitchell911/blob/main/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [caffeinix](https://github.com/TroyMitchell911/caffeinix/);
+- 👨🏽‍💻 I’m currently working on [caffeinix](https://github.com/joker001014/blog/);
 - 🌱 I'm currently learning operating systems; 
 - 👯 I’m looking to collaborate on [Operating System]🤝;
 - 🤔 I’m looking for help with  [Understand linux source code]😭;
@@ -35,10 +35,8 @@ You can use the website to generate badges: https://shields.io/
 ![c](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![cplusplus](http://img.shields.io/badge/-C++-03234B?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![python](http://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![rust](http://img.shields.io/badge/-Rust-03234B?style=flat-square&logo=rust&logoColor=ffffff)
-![Android](http://img.shields.io/badge/-Android-34A853?style=flat-square&logo=android&logoColor=ffffff)
+![asm](http://img.shields.io/badge/-ASM-6E4C37?style=flat-square&logo=assemblyscript&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![yolov5](https://img.shields.io/badge/-yolov5-C5242C?style=flat-square&logo=futurelearn)
 
 ![nxp](http://img.shields.io/badge/-imx6ull-03234B?style=flat-square&logo=nxp&logoColor=ffffff)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/LuizCarlosAbbott/)
@@ -63,10 +61,9 @@ You can use the website to generate badges: https://shields.io/
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows11&logoColor=ffffff)
-![Quest3](http://img.shields.io/badge/-Quest3-0467DF?style=flat-square&logo=meta&logoColor=ffffff)
+
 
 <!-- Its main projects -->
 
