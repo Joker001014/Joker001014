@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/TroyMitchell911/Troymitchell911/blob/main/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [caffeinix](https://github.com/joker001014/blog/);
+- 👨🏽‍💻 I’m currently working on [myblog](https://github.com/joker001014/blog/);
 - 🌱 I'm currently learning operating systems; 
 - 👯 I’m looking to collaborate on [Operating System]🤝;
 - 🤔 I’m looking for help with  [Understand linux source code]😭;
