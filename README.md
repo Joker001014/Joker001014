@@ -8,7 +8,7 @@
 
 <!-- Your title -->
 
-# :man_technologist:  Hi, I'm Troy Mitchell, a Developer 🚀 from China.
+# :man_technologist:  Hi, I'm JokerDebug, a Developer 🚀 from China.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -28,8 +28,8 @@ You can use the website to generate badges: https://shields.io/
 - 👯 I’m looking to collaborate on [Operating System]🤝;
 - 🤔 I’m looking for help with  [Understand linux source code]😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I am a junior computer science student. I really hope to get internship opportunities abroad, whether online or offline;
-- 📫 How to reach me: TroyMitchell988@gmail.com;
+- ⚡️ Fun-Fact: I am a graduate student. I really hope to get internship opportunities abroad, whether online or offline;
+- 📫 How to reach me: kywang1014@163.com;
 
 ## Technologies I'm Learning :books:
 ![c](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -74,17 +74,9 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 
-<p>
-  <a href="https://github.com/TroyMitchell911">
-    <img height="180em"alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=TroyMitchell911&show_icons=true&hide_border=true" />
-    <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=troymitchell911&show_icons=true&hide_border=true&layout=compact" />
-  </a>
-</p>
-
-
  <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
 
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
-⭐️ From [TroyMitchell](https://github.com/TroyMitchell911)
+⭐️ From [JokerDebug](https://github.com/joker001014)
